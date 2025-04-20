@@ -64,7 +64,7 @@ Relasi antar entitas seperti:
 
 ## Dokumentasi
 Video dokumentasi penggunaan aplikasi:  
-[`Recording Test Website OOP Database.mp4`](Recording%20Test%20Website%20OOP%20Database.mp4)
+[`Recording Test Website OOP Database.mp4`]([Recording%20Test%20Website%20OOP%20Database.mp4](https://drive.google.com/file/d/1bdpb0dkNB9Zrib2Oq87J2qeiE0-m-re9/view?usp=sharing))
 
 ---
 
